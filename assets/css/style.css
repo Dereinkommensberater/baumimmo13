@@ -159,7 +159,7 @@ img { max-width: 100%; display: block; }
   position: absolute;
   inset: 0;
   background:
-    url('https://d8j0ntlcm91z4.cloudfront.net/user_34guswsgM7bqzKukqTCA7ePgYNn/hf_20260716_182056_4171c2c1-575a-434d-8a6c-4afd819e59a3.png')
+    url('../img/hero.webp')
     center / cover no-repeat,
     var(--green-950);
   transform: scale(1.04);
