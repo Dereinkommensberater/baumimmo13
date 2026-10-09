@@ -388,6 +388,18 @@ img { max-width: 100%; display: block; }
 
 .card-body p { font-size: 15.5px; color: var(--ink-soft); }
 
+.card-link {
+  display: inline-block;
+  margin-top: 16px;
+  font-weight: 600;
+  font-size: 15px;
+  color: var(--green-950);
+  border-bottom: 1.5px solid var(--gold);
+  padding-bottom: 2px;
+  transition: color 0.2s ease;
+}
+.card-link:hover { color: var(--gold); }
+
 /* ---------- Über uns ---------- */
 .about-grid {
   display: grid;
